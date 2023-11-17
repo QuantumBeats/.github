@@ -1,4 +1,4 @@
-# Welcome to the QuantumBeats team! 🙌 [![Static Badge](https://img.shields.io/badge/Research%20wiki%20-red?style=plastic&label=Rw&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/wiki)
+# Welcome to the QuantumBeats team! 🙌 [![Static Badge](https://img.shields.io/badge/Research%20wiki%20-red?style=plastic&label=Rw&labelColor=blue)](https://github.com/NenadBalaneskovic/NenadBalaneskovic/wiki) [![Static Badge](https://img.shields.io/badge/QBw%20-%20Main?style=plastic&label=QauntumBeatsWiki&labelColor=yellow&color=green&link=https%3A%2F%2Fgithub.com%2FQuantumBeats)](https://github.com/QuantumBeats/.github/wiki)
 
 Dear visitors 🙋‍♀️,
 
